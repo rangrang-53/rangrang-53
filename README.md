@@ -62,10 +62,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rangrang-53&show_icons=true&theme=shadow_green&count_private=true&hide_border=true" height="180"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rangrang-53&show_icons=true&theme=shadow_green&count_private=true&hide_border=true" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangrang-53&layout=compact&theme=shadow_green&hide_border=true" height="180"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rangrang-53&layout=compact&theme=shadow_green&hide_border=true" height="180"/>
     </td>
   </tr>
 </table>
